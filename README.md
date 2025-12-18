@@ -3,6 +3,7 @@
 A real-time AI-driven NPC system built in Unity that generates intelligent, context-aware responses based on human interaction.
 The NPC’s personality, behavior, and scene context can be customized dynamically, making it suitable for games, simulations, XR experiences, and interactive storytelling.
 
+
 🚀 Project Overview
 
 This project demonstrates an AI-powered NPC that:
@@ -11,47 +12,53 @@ Responds in real time using the DeepSeek language model
 
 Adapts its responses based on:
 
-Scene description
+  Scene description
 
-Environment context
+  Environment context
+  
+  Custom personality traits
 
-Custom personality traits
+  Uses real-time lip synchronization for immersive interaction
 
-Uses real-time lip synchronization for immersive interaction
-
-Can be easily customized and extended for different use cases
+  Can be easily customized and extended for different use cases
 
 The system is fully integrated inside Unity, allowing developers to modify NPC behavior directly from the editor.
 
+
+
 🛠️ Tech Stack
 
-Unity: 2022.3.50f1 (LTS)
+  Unity: 2022.3.50f1 (LTS)
 
-AI Model: DeepSeek (via OpenRouter API)
+  AI Model: DeepSeek (via OpenRouter API)
 
-Lip Sync: OVR Lip Sync SDK
+  Lip Sync: OVR Lip Sync SDK
 
-Character Creation: Ready Player Me
+  Character Creation: Ready Player Me
 
-Interaction / Intent Handling: Wit.ai
+  Interaction / Intent Handling: Wit.ai
 
-Language: C#
+  Language: C#
+
+
 
 ✨ Key Features
 
-🔹 Real-time AI dialogue generation
+  🔹 Real-time AI dialogue generation
 
-🔹 Customizable NPC personality and behavior
+  🔹 Customizable NPC personality and behavior
 
-🔹 Scene-aware responses
+  🔹 Scene-aware responses
 
-🔹 Real-time lip sync for speech
+  🔹 Real-time lip sync for speech
 
-🔹 Modular and extensible Unity setup
+  🔹 Modular and extensible Unity setup
 
-🔹 Ready Player Me character integration
+  🔹 Ready Player Me character integration
 
-🔹 OpenRouter support for DeepSeek API
+  🔹 OpenRouter support for DeepSeek API
+
+  
 
 ▶️ How to Run the Project Locally
 1️⃣ Clone the Repository
