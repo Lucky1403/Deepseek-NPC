@@ -144,17 +144,8 @@ Integrated lip sync and Ready Player Me characters
 
 Full credit to the original author for the initial DeepSeek–Unity setup.
 
-🎥 Demo Video
 
-A demo video showcasing:
 
-Real-time AI responses
-
-Lip synchronization
-
-Scene-based behavior
-
-📎 (Demo video link attached in the post)
 
 📌 Use Cases
 
